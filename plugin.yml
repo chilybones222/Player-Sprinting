@@ -1,0 +1,10 @@
+name: SpeedsterS
+main: me.Chilybones.Sprinting.Main
+version: 1.0
+
+# Replace "kit" with the name of your command.
+commands:
+permissions:
+  speedster.run:
+    description: User's with this permission become a speedster
+    
